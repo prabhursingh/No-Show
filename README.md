@@ -95,7 +95,6 @@ Update the CSV path in the first data-loading cell to point at `KaggleV2-May-201
 ```
 No-Show/
 ├── no show.ipynb            # Full analysis: cleaning → EDA → models → bias audit → SHAP
-├── no_show.py               # Script export of the notebook
 ├── KaggleV2-May-2016.csv    # Dataset (Kaggle)
 └── README.md
 ```
@@ -108,4 +107,4 @@ No-Show/
 
 ## 👥 Authors
 
-Group project — Health Informatics programme. Analysis and repository maintained by **Dr. Prabhu Raj Singh** ([LinkedIn](https://www.linkedin.com/in/prabhu-raj-singh-9a926a20)).
+Group project — Health Informatics programme. Analysis and repository maintained by **Prabhu Raj Singh** ([LinkedIn](https://www.linkedin.com/in/prabhu-raj-singh-9a926a20)).
